@@ -35,3 +35,10 @@ out/
 
 ### VS Code ###
 .vscode/
+settings.gradle
+gradlew.bat
+gradlew
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+build.gradle
+.DS_Store
